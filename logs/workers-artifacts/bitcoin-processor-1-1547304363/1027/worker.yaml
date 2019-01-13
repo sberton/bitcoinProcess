@@ -1,0 +1,4 @@
+worker-id: 6d1aee98-1ddc-4cb1-932b-1be9040cb7b6
+logs.users: []
+logs.groups: []
+topology.submitter.user: serial
